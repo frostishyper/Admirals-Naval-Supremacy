@@ -19,7 +19,7 @@ combat with new mechanics and deeper tactical decision‑making. 🌊
 -   **PC-Focused Experience** -- Smooth desktop integration and UI
 -   **New Abilities & Mechanics** -- Ship abilities, Custom Ship Lineups, and
     more
--   **Built with Unity** -- 
+-   **Built with Unity** -- 2D Universal (modern URP)
 
 
 
